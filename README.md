@@ -1,8 +1,7 @@
 ## Hi there! My name is Kaden Sun and I am a freshman studying mechanical engineering at the University of San Diego.
 
 <!--
-**kadensun726/kadensun726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**kadensun726/kadensun726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub pro
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> what
