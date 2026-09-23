@@ -1,4 +1,4 @@
-## Hi there! My name is Kaden Sun and I am a freshman studying mechanical engineering at the University of San Diego.
+## Hi there! My name is Kaden Sun.
 
 <!--
 **kadensun726/kadensun726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub pro
@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> what
+--> I am a freshman studying mechanical engineering at the University of San Diego. I am vastly interested in engineering, and am hoping to learn more about mechatronics, robotics, manufacturing, and material science.
+
